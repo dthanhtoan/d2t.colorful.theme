@@ -1,0 +1,37 @@
+{
+  "name": "d2t-colorful-theme",
+  "displayName": "D2T Colorful Theme",
+  "description": "🌈 D2T Colorful theme for Visual Studio Code",
+  "version": "0.0.2",
+  "publisher": "dthanhtoan",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "keywords": [
+    "ayu",
+    "color theme",
+    "color theme",
+    "colorful",
+    "dark",
+    "theme dark",
+    "theme"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      },
+      {
+        "label": "Dark Clean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-clean.json"
+      }
+    ]
+  }
+}
