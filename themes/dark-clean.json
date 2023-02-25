@@ -301,7 +301,7 @@
   ],
   "colors": {
     "activityBar.activeBackground": "#ffffff00",
-    "activityBar.activeBorder": "#ffffff00",
+    "activityBar.activeBorder": "#c7a1f7",
     "activityBar.activeFocusBorder": "#ffffff00",
     "activityBar.background": "#1e2030",
     "activityBar.border": "#ffffff00",

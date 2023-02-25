@@ -46,7 +46,7 @@
    On Mac:
    {
    "vscode_custom_css.imports": [
-       file:///Users/{your username}/.vscode/extensions/dthanhtoan.d2t-colorful-theme-0.0.2/customColor.css"
+       file:///Users/{your username}/.vscode/extensions/dthanhtoan.d2t-colorful-theme-0.4.0/customColor.css"
    ]
    }
    ```
@@ -55,7 +55,7 @@
    On Windows:
    {
    "vscode_custom_css.imports": [
-       "file:///C:/Users/{your username}/.vscode/extensions/dthanhtoan.d2t-colorful-theme-0.0.2/customColor.css"
+       "file:///C:/Users/{your username}/.vscode/extensions/dthanhtoan.d2t-colorful-theme-0.4.0/customColor.css"
    ]
    }
    ```
@@ -64,7 +64,7 @@
    On Linux:
    {
    "vscode_custom_css.imports": [
-       "file:///home/{your username}/.vscode/extensions/dthanhtoan.d2t-colorful-theme-0.0.2/customColor.css"
+       "file:///home/{your username}/.vscode/extensions/dthanhtoan.d2t-colorful-theme-0.4.0/customColor.css"
    ]
    }
    ```

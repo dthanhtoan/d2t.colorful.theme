@@ -2,7 +2,7 @@
   "name": "d2t-colorful-theme",
   "displayName": "D2T Colorful Theme",
   "description": "🌈 D2T Colorful theme for Visual Studio Code",
-  "version": "0.0.2",
+  "version": "0.4.0",
   "publisher": "dthanhtoan",
   "icon": "icon.png",
   "engines": {
